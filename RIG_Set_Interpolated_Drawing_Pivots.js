@@ -1,7 +1,7 @@
 /*
 	Set Interpolated Drawing Pivots v1.11
 	
-	An experimental script for setting embedded pivots on in-between cells
+	This Toon Boom Harmony shelf script sets embedded pivots on all cels between two selected cels.
 	based on the first and the last selected cells' pivot positions. 
 	
 	v1.1 - Script optimization.
