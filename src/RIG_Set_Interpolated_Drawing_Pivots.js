@@ -1,5 +1,5 @@
 /*
-	Set Interpolated Drawing Pivots v1.11
+	Set Interpolated Drawing Pivots
 	
 	This Toon Boom Harmony shelf script sets embedded pivots on all cels between two selected cels.
 	based on the first and the last selected cells' pivot positions. 
@@ -14,8 +14,8 @@
 	2) Locate to your user scripts folder (a hidden folder):
 	   https://docs.toonboom.com/help/harmony-17/premium/scripting/import-script.html	
 	   
-	3) Add all unzipped files (*.js, and script-icons folder) directly to the folder above.
-	4) Add RIG_Set_Interpolated_Drawing_Pivots to Camera or Drawing toolbars.	
+	3) There is a folder named "src" inside the zip file. Copy all its contents directly to the folder above.
+	4) In Harmony, add RIG_Set_Interpolated_Drawing_Pivots function to Camera or Drawing toolbars.	
 	
 	
 	Direction:
